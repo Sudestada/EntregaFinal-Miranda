@@ -1,0 +1,39 @@
+.headerNav{
+    display: flex;
+    background-color: #333333;
+    justify-content: space-between;
+    height: 10vh;
+
+}
+
+.navDiv{
+    display: flex;
+    align-items: center;
+    
+    
+
+}
+
+
+.divNameShop{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2196F3;
+    
+}
+.divSpan{
+    
+    font-family: serif;
+    font-size: 30px;
+    
+    
+}
+.divCart{
+    margin-right: 20px;
+    padding-left: 20 px;
+    padding-right: 20px;
+    display: flex;
+    align-items: center;
+}
+
